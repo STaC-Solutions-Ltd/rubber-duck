@@ -2,8 +2,8 @@
 A rubber duck debugging tool.
 
 For the UI see:
-<img src="Documents/Rubber Duck UI.jpg"
-alt = Rubber Duck UI mockup
+<img src="Documents/Rubber Duck user story diagrams.jpg"
+alt = Rubber Duck user story diagrams
 />
 
 For the Sequence diagram see:
