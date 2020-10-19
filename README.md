@@ -1,7 +1,7 @@
 # rubber-duck
 A rubber duck debugging tool.
 
-For the UI see:
+For the user story diagrams see:
 <img src="Documents/Rubber Duck user story diagrams.jpg"
 alt = Rubber Duck user story diagrams
 />
