@@ -10,12 +10,12 @@ Written in C# and WPF.
 
 For the user story diagrams see:
 <img src="Documents/Rubber Duck user story diagrams.jpg"
-alt = Rubber Duck user story diagrams
+	 alt="Rubber Duck user story diagrams"
 />
 
 For the Sequence diagram see:
 <img src="Documents/Rubber Duck Sequence diagram.jpg"
-alt = Rubber Duck sequence diagram
+	 alt="Rubber Duck sequence diagram"
 />
 
 ## User stories
@@ -34,10 +34,14 @@ Examples are:
 
 5. As a Big Data Developer, I would like to find simple solutions to why my databases aren’t retrieving or storing data correctly. Retrieving and storing data correctly is under GDPR and a legal requirement and key data is necessary for some systems to run.
 
-
-
 ## Acceptance criteria
 
 1. The Rubber Duck AI will give a response in fast time. (0.5 sec)
 2. Dropdown options for the user to pick from as responses to ensure they get the right solutions.
 3. Accurate responses to a range of common problems. These will include layout and database problems.
+
+## User interface
+
+<img src="Documents/UI.png"
+	 alt="User interface design for the rubber ducking system"
+/>
