@@ -9,6 +9,11 @@
     <Grid>
         <Image Source="/duck.png" HorizontalAlignment="Center" Height="129" Margin="0,106,0,0" VerticalAlignment="Top"
               />
+        <TextBox HorizontalAlignment="Left" Margin="299,270,0,0" Text="Tell me your problems..." TextWrapping="Wrap" VerticalAlignment="Top" Width="221"/>
+        <Button Content="Start" HorizontalAlignment="Left" Margin="550,270,0,0" VerticalAlignment="Top" Height="18" Width="88" Background="LightGoldenrodYellow" Click="Button_Click"/>
+        <TextBlock x:Name="DuckRespond" HorizontalAlignment="Left" Margin="241,319,0,0"  TextWrapping="Wrap" VerticalAlignment="Top" Width="353" Height="32"/>
+
+
 
     </Grid>
 </Window>

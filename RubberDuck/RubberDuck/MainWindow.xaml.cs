@@ -24,5 +24,11 @@ namespace RubberDuck
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+            DuckRespond.Text = "Have you tried turning it off and on again?";
+        }
     }
 }
